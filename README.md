@@ -35,6 +35,9 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 </div>
 <br/>
 
+<!-- SOCIALS BUTTONS -->
+
+<div>
 <!-- LINKEDIN -->
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
@@ -61,7 +64,6 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 
 <!-- DISCORD -->
 <!-- Light Mode -->
-<!-- <div>
 <a href="https://discord.gg/HXmCeSH8jr#gh-light-mode-only">
 <img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
 </a> -->
