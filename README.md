@@ -11,6 +11,8 @@ Currently working in the Solana blockchain. However, I do have experience in Eth
 <br>
 <br>
 A Data Scientist, passionate about Deep Learning. Currently working in the field building AIs to pass the Turing Test.
+<br>
+<br>
 
 <!-- Light Mode -->
 <div align="center"> 
