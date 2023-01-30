@@ -2,11 +2,11 @@
 
 [![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
 
-An experienced quant, with over 10 years trding global financial markers through algorithms.
+An experienced quant, with over 10 years trding global financial markers through algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM).
 <br>
 Since 2020, I'm focused in developing web3 applications.
 <br>
-Currently working in the Solana blockchain. However, I do have experience in Solidity (Ethereum), Polygon and EOSio.
+Currently working in the Solana blockchain. However, I do have experience in Ethereum, Polygon and EOSio smart contracts.
 
 <!-- Light Mode -->
 <div align="center"> 
