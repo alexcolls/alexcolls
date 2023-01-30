@@ -43,7 +43,7 @@ Open source evangelist.
 <!-- LINKEDIN -->
  <div>
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
+<a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
@@ -79,6 +79,48 @@ Open source evangelist.
 </a> -->
 
 <!-- HACKERRANK -->
+<div>
+<!-- Light Mode -->
+<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
+</a>
+</div>
+
+&nbsp;
+
+<!-- CODEWARS -->
+<div>
+<!-- Light Mode -->
+<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
+</a>
+</div>
+
+&nbsp;
+
+<!-- KAGGLE -->
+<div>
+<!-- Light Mode -->
+<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
+</a>
+</div>
+
+&nbsp;
+
+<!-- DATACAMP -->
 <div>
 <!-- Light Mode -->
 <a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
