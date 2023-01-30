@@ -1,4 +1,4 @@
-### Hey 👋, I'm Quantium
+### Hey 👋, I'm Alex
 
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
