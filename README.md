@@ -37,8 +37,6 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 
 <!-- SOCIALS BUTTONS -->
 
-<div style="display: flex;">
-
 <!-- LINKEDIN -->
  <div>
 <!-- Light Mode -->
@@ -92,7 +90,3 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 </div>
 
 &nbsp;
-
-</div>
-
-
