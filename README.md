@@ -37,7 +37,6 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 
 <!-- SOCIALS BUTTONS -->
 
-<div align="center flex"> 
 <!-- LINKEDIN -->
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
@@ -86,4 +85,4 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 
 &nbsp;
 
-</div>
+
