@@ -4,6 +4,7 @@
 
 An experienced quant, with over 10 years trding global financial markers through algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM).
 <br>
+<br>
 Since 2020, I'm focused in developing web3 applications.
 <br>
 Currently working in the Solana blockchain. However, I do have experience in Ethereum, Polygon and EOSio smart contracts.
