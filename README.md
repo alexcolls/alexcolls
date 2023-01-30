@@ -3,9 +3,9 @@
 [![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
 
 An experienced quant, with over 10 years trding global financial markers through algorithms.
-&nbsp;
+<br>
 Since 2020, I'm focused in developing web3 applications.
-&nbsp;
+<br>
 Currently working in the Solana blockchain. However, I do have experience in Solidity (Ethereum), Polygon and EOSio.
 
 <!-- Light Mode -->
