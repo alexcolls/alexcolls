@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Quantium
 
-[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
+[![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
 A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM).
 <br>
