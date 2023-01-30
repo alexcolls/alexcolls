@@ -15,6 +15,7 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <br>
 Open source evangelist.
 <br>
+<br>
 
 <!-- Light Mode -->
 <div align="center"> 
