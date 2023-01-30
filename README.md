@@ -75,16 +75,14 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
 </a> -->
 
-&nbsp;
-
 <!-- HACKERRANK -->
 <div>
 <!-- Light Mode -->
-<a href="https://stackshare.io/rickstaa/my-stack#gh-light-mode-only">
+<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
 </a>
 <!-- Dark Mode -->
-<a href="https://stackshare.io/rickstaa/my-stack#gh-dark-mode-only">
+<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
 </a>
 </div>
