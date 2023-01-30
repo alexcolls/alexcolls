@@ -30,22 +30,24 @@ Currently working in the Solana blockchain. However, I do have experience in Sol
 
 <!-- Social button 1 -->
 <!-- Light Mode -->
-<div>
+<!-- <div>
 <a href="https://discord.gg/HXmCeSH8jr#gh-light-mode-only">
 <img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
-</a>
+</a> -->
 <!-- Dark Mode -->
-<a href="https://discord.gg/HXmCeSH8jr#gh-dark-mode-only">
+<!-- <a href="https://discord.gg/HXmCeSH8jr#gh-dark-mode-only">
 <img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
-</a>
+</a> -->
+
 &nbsp;
+
 <!-- Social button 2 -->
 <!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
+<a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only">
 <img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
+<a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
