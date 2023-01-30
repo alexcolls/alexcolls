@@ -40,6 +40,7 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <div style="display: flex;">
 
 <!-- LINKEDIN -->
+ <div>
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/rickstaa#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
@@ -48,10 +49,12 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <a href="https://www.linkedin.com/in/rickstaa#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
+</div>
 
 &nbsp;
 
 <!-- TWITTER -->
+<div>
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only">
 <img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
@@ -60,6 +63,7 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
+</div>
 
 &nbsp;
 
@@ -76,6 +80,7 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 &nbsp;
 
 <!-- HACKERRANK -->
+<div>
 <!-- Light Mode -->
 <a href="https://stackshare.io/rickstaa/my-stack#gh-light-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
@@ -84,9 +89,10 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <a href="https://stackshare.io/rickstaa/my-stack#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
 </a>
+</div>
 
 &nbsp;
-  
- </div>
+
+</div>
 
 
