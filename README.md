@@ -8,6 +8,9 @@ A retired Quant, after 10 years trding global financial markets with algorithms.
 A Software Engineer, focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
 <br>
 Currently working in the Solana blockchain. However, I do have experience in Ethereum, Polygon and EOSio smart contracts.
+<br>
+<br>
+A Data Scientist, passionate about Deep Learning. Currently working in the field building AIs to pass the Turing Test.
 
 <!-- Light Mode -->
 <div align="center"> 
