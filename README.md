@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
 
-A retired Quant, after 10 years trding global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM).
+A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM).
 <br>
 <br>
 A Software Engineer, focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
