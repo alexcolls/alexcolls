@@ -51,21 +51,21 @@ A Data Scientist, passionate about Deep Learning. Currently working in the field
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40quantium?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40quantium?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 &nbsp;
 <!-- Social button 3 -->
 <!-- Light Mode -->
 <a href="https://stackshare.io/rickstaa/my-stack#gh-light-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only" alt="Checkout my development stack" >
+<img src="[https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=3572A5#gh-light-mode-only](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)" alt="HackeRank" >
 </a>
 <!-- Dark Mode -->
 <a href="https://stackshare.io/rickstaa/my-stack#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=FFF#gh-dark-mode-only" alt="Checkout my development stack" >
+<img src=["https://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge&logo=stackshare&labelColor=000&color=FFF#gh-dark-mode-only](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)" alt="Hacker Rank" >
 </a>
 &nbsp;
 <!-- Social button 4 -->
