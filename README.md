@@ -10,7 +10,7 @@ A Software Engineer, focused in developing web3 applications. Obsessed with brin
 Currently working in the Solana blockchain. However, I do have experience in Ethereum, Polygon and EOSio smart contracts.
 <br>
 <br>
-A Data Scientist, passionate about Deep Learning. Currently working in the field building AIs to pass the Turing Test.
+A Data Scientist, passionate about Deep Learning. Currently working in the field building social media bots that uses the last neural networks models to interact with your social accounts like a humaniod.
 <br>
 <br>
 
