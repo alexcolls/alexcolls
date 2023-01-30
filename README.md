@@ -13,6 +13,8 @@ Currently working in the Solana blockchain. Although, I do have experience in Et
 A Data Scientist, passionate about Deep Learning. Currently working in the field building social media bots that uses the lastest Natural Language Processing (NLP) models to interact with your social accounts like a humaniod without being detected.
 <br>
 <br>
+Open source evangelist.
+<br>
 
 <!-- Light Mode -->
 <div align="center"> 
