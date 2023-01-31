@@ -79,57 +79,63 @@ Open source evangelist.
 </a> -->
 
 <!-- HACKERRANK -->
-<div>
 <!-- Light Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
 </a>
+-->
 <!-- Dark Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
 </a>
-</div>
-
+-->
 &nbsp;
 
 <!-- CODEWARS -->
-<div>
 <!-- Light Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
 </a>
+-->
 <!-- Dark Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
 </a>
-</div>
-
+-->
 &nbsp;
 
 <!-- KAGGLE -->
-<div>
 <!-- Light Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
 </a>
+-->
 <!-- Dark Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
 </a>
-</div>
+-->
 
 &nbsp;
 
 <!-- DATACAMP -->
-<div>
 <!-- Light Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
 </a>
+-->
 <!-- Dark Mode -->
+<!--
 <a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
 </a>
-</div>
+-->
 
 &nbsp;
