@@ -3,19 +3,19 @@
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
 A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM) systems.
-<br>
-<br>
+<br/>
+<br/>
 A Software Engineer, focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
-<br>
+<br/>
 Currently working in the Solana blockchain. Although, I do have experience in Ethereum, Polygon and EOSio smart contracts.
-<br>
-<br>
+<br/>
+<br/>
 A Data Scientist, passionate about Deep Learning. Currently working in the field building social media bots that uses the lastest Natural Language Processing (NLP) models to interact with your social accounts like a humaniod without being detected.
-<br>
-<br>
+<br/>
+<br/>
 Open source evangelist.
-<br>
-<br>
+<br/>
+<br/>
 
 <!-- Light Mode -->
 <div align="center"> 
@@ -39,6 +39,19 @@ Open source evangelist.
 <br/>
 
 <!-- SOCIALS BUTTONS -->
+<br/>
+<br/>
+<!-- TWITTER -->
+<div>
+<!-- Light Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
+<img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+</a>
+<!-- Dark Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
+<img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+</a>
+</div>
 
 <!-- LINKEDIN -->
  <div>
@@ -53,18 +66,6 @@ Open source evangelist.
 </div>
 
 &nbsp;
-
-<!-- TWITTER -->
-<div>
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
-<img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
-<img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-</div>
 
 &nbsp;
 
