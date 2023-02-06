@@ -1,9 +1,8 @@
 ### Hey 👋, I'm Alex
 
-<div styles="{display:flex}">
-     <div>
      [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
      </div>
+<table cellpadding="0">
      <!-- TWITTER -->
      <div>
      <!-- Light Mode -->
@@ -27,7 +26,7 @@
      <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
      </a>
      </div>
-</div>
+</table>
      <br/>
      <br/>
     
