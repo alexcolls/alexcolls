@@ -19,6 +19,17 @@ Open source evangelist.
 <!-- SOCIALS BUTTONS -->
 <a>
 </a>
+<!-- LINKEDIN -->
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-light-mode-only" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-dark-mode-only" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+&nbsp;
+&nbsp;
 <!-- TWITTER -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
@@ -28,17 +39,6 @@ Open source evangelist.
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
 <img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-&nbsp;
-&nbsp;
-<!-- LINKEDIN -->
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-light-mode-only" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-dark-mode-only" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 <br/>
 <br/>
