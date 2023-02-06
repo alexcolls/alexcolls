@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Alex
 
-<div styles="display:flex">
+<div styles="{display:flex}">
      <div>
      [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
      </div>
