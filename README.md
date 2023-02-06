@@ -1,8 +1,11 @@
 ### Hey 👋, I'm Alex
 
 <div styles="display:flex">
+     <div>
      [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
+     </div>
      <!-- TWITTER -->
+     <div>
      <!-- Light Mode -->
      <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
      <img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" 
@@ -12,10 +15,10 @@
      <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
      <img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
      </a>
-     <br/>
-     <br/>
+     </div>
      <!-- LINKEDIN -->
      <!-- Light Mode -->
+     <div>
      <a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-light-mode-only" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
      </a>
@@ -23,6 +26,7 @@
      <a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-dark-mode-only" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
      </a>
+     </div>
 </div>
      <br/>
      <br/>
