@@ -16,8 +16,9 @@ Open source evangelist.
 <br/>
 
 <!-- SOCIALS BUTTONS -->
-
+<a>
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
+</a>
 <!-- TWITTER -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
