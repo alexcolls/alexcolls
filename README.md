@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Alex
-[![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 <div styles="display:flex">
+[![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 <!-- TWITTER -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
@@ -22,8 +22,6 @@
 </a>
 </div>
 <br/>
-<br/>
-    
 
 A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM) systems.
 <br/>
