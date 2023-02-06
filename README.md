@@ -38,7 +38,7 @@ Open source evangelist.
 </a>
 <!-- Dark Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
-<img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40fxmoxart_sol-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
 <br/>
 <br/>
