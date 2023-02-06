@@ -1,6 +1,5 @@
 ### Hey 👋, I'm Alex
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
-<div styles="{display: flex, padding: 22px}">
 <!-- TWITTER -->
 <!-- Light Mode -->
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-light-mode-only" target="_blank">
@@ -20,7 +19,6 @@
 <a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-dark-mode-only" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
-</div>
 <br/>
 
 A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM) systems.
