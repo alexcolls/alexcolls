@@ -1,4 +1,5 @@
 ### Hey 👋, I'm Alex
+[![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
 A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM) systems.
 <br/>
@@ -17,7 +18,6 @@ Open source evangelist.
 
 <!-- SOCIALS BUTTONS -->
 <a>
-[![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 </a>
 <!-- TWITTER -->
 <!-- Light Mode -->
@@ -29,8 +29,8 @@ Open source evangelist.
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
 <img src="https://img.shields.io/badge/follow-%40quantium-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
-<br/>
-<br/>
+&nbsp;
+&nbsp;
 <!-- LINKEDIN -->
 <!-- Light Mode -->
 <a href="https://www.linkedin.com/in/alex-colls-outumuro#gh-light-mode-only" target="_blank">
