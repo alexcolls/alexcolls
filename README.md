@@ -44,7 +44,11 @@ Open source evangelist.
 
 &nbsp;
 &nbsp;
-![alt text](https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank.png?width=60)
+<a href="https://hackerrank.com/Alex_Colls" target="_blank">
+<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank.png" 
+     alt="Hackerrank profile"
+     width="60" >
+</a>
 
 <br/>
 <br/>
