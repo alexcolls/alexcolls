@@ -44,7 +44,7 @@ Open source evangelist.
 
 &nbsp;
 &nbsp;
-![alt text](https://github.com/quantium-rock/quantium-rock/blob/main/hackerrank.png?raw=true)
+![alt text](https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank.png?width=60)
 
 <br/>
 <br/>
