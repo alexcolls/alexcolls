@@ -1,4 +1,5 @@
 ### Hey 👋, I'm Alex
+
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
 A Software Engineer, focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
@@ -43,8 +44,7 @@ Open source evangelist.
 
 &nbsp;
 &nbsp;
-![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226))
-
+![alt text](<[http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226)>)
 
 <br/>
 <br/>
