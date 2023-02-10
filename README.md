@@ -49,7 +49,7 @@ Open source evangelist.
 <img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank.png" 
      alt="Hackerrank profile"
      width="40" 
-     styles="{margin-top:14px, padding-top:14px}">
+     styles="{margin-top:22px, padding-top:22px}">
 </a>
 <br/>
 <br/>
