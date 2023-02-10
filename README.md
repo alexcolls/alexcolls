@@ -44,7 +44,7 @@ Open source evangelist.
 
 &nbsp;
 &nbsp;
-![alt text](<[http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226)>)
+![alt text](https://github.com/quantium-rock/quantium-rock/blob/main/hackerrank.png?raw=true)
 
 <br/>
 <br/>
