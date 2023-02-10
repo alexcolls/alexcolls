@@ -41,7 +41,6 @@ Open source evangelist.
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
 <img src="https://img.shields.io/badge/follow-%40fxmozart-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
-
 &nbsp;
 &nbsp;
 <a href="https://hackerrank.com/Alex_Colls" target="_blank">
