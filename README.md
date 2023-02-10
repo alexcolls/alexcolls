@@ -41,13 +41,6 @@ Open source evangelist.
 <a href="https://twitter.com/intent/follow?screen_name=fxmozart_sol#gh-dark-mode-only" target="_blank">
 <img src="https://img.shields.io/badge/follow-%40fxmozart-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
-&nbsp;
-&nbsp;
-<a href="https://hackerrank.com/Alex_Colls" target="_blank">
-<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank.png" 
-     alt="Hackerrank profile"
-     width="60" >
-</a>
 
 <br/>
 <br/>
@@ -139,5 +132,15 @@ Open source evangelist.
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
 </a>
 </div>
+<br/>
+<br/>
+
+&nbsp;
+&nbsp;
+<a href="https://hackerrank.com/Alex_Colls" target="_blank">
+<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank.png" 
+     alt="Hackerrank profile"
+     width="60" >
+</a>
 <br/>
 <br/>
