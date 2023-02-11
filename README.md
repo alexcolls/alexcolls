@@ -62,6 +62,7 @@ Open source evangelist.
      height="36" 
 >
 </a>
+&nbsp;
 My Curriculum Vitae (CV)
 </div>
 
