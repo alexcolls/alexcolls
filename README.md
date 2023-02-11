@@ -16,7 +16,8 @@ A retired Quant, after 10 years trading global financial markets with algorithms
 Open source evangelist.
 <br/>
 <br/>
-My CV: <a href="[https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20](https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf)" target="_blank">
+My CV: 
+<a href="[https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20](https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf)" target="_blank">
 <img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
      alt="Hackerrank profile"
      height="24" 
