@@ -54,6 +54,16 @@ Open source evangelist.
 &nbsp;
 &nbsp;
 &nbsp;
+<!-- CODEWARS -->
+<a href="https://www.codewars.com/users/quantium-rock" target="_blank">
+<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/codewars-logo.png" 
+     alt="Hackerrank profile"
+     height="24" 
+>
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
 <br/>
 <br/>
 <a href="https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf" target="_blank">
