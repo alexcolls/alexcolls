@@ -2,13 +2,6 @@
 
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
-My CV: 
-<a href="[https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20](https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf)" target="_blank">
-<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
-     alt="Hackerrank profile"
-     height="24" 
->
-
 A Software Engineer, focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
 <br/>
 Currently working in the Solana blockchain. Although, I do have experience in Ethereum, Polygon and EOSio smart contracts.
@@ -23,6 +16,12 @@ A retired Quant, after 10 years trading global financial markets with algorithms
 Open source evangelist.
 <br/>
 <br/>
+My CV: <a href="[https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20](https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf)" target="_blank">
+<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
+     alt="Hackerrank profile"
+     height="24" 
+>
+</a>
 
 <!-- SOCIALS BUTTONS -->
 <a>
@@ -61,7 +60,6 @@ Open source evangelist.
 &nbsp;
 &nbsp;
 &nbsp;
-</a>
 <br/>
 <br/>
 
