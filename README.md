@@ -17,18 +17,6 @@ Open source evangelist.
 <br/>
 <br/>
 <div>
-My CV: 
-&nbsp;
-&nbsp;
-<a href="https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf" target="_blank">
-<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
-     alt="My CV"
-     height="24" 
->
-</a>
-</div>
-<br/>
-<br/>
 <!-- SOCIALS BUTTONS -->
 <a>
 </a>
@@ -66,6 +54,17 @@ My CV:
 &nbsp;
 &nbsp;
 &nbsp;
+<br/>
+<br/>
+My CV: 
+&nbsp;
+<a href="https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf" target="_blank">
+<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
+     alt="My CV"
+     height="32" 
+>
+</a>
+</div>
 <br/>
 <br/>
 
