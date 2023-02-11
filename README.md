@@ -7,10 +7,10 @@ A Software Engineer, focused in developing web3 applications. Obsessed with brin
 Currently working in the Solana blockchain. Although, I do have experience in Ethereum, Polygon and EOSio smart contracts.
 <br/>
 <br/>
-A Data Scientist, passionate about Deep Learning. Currently working in the field building social media bots that uses the lastest Natural Language Processing (NLP) models to interact with your social accounts like a humaniod without being detected.
+A Data Scientist, passionate about Deep Learning. Currently working in the field building social media bots that use the latest Natural Language Processing (NLP) models to interact with your social accounts like a humanoid without being detected.
 <br/>
 <br/>
-A retired Quant, after 10 years trading global financial markets with algorithms. Speciallized in High Frequency Trading (HTF) and Market Making (MM) systems.
+A retired Quant, after 10 years trading global financial markets with algorithms. Specialized in High Frequency Trading (HTF) and Market Making (MM) systems.
 <br/>
 <br/>
 Open source evangelist.
