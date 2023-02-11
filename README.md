@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
-A Software Engineer focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
+A Software Engineer focused on developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
 <br/>
 Currently working in the Solana blockchain. Although, I do have experience in Ethereum, Polygon and EOSio smart contracts.
 <br/>
