@@ -16,6 +16,7 @@ A retired Quant, after 10 years trading global financial markets with algorithms
 Open source evangelist.
 <br/>
 <br/>
+<div>
 My CV: 
 &nbsp;
 &nbsp;
@@ -25,6 +26,7 @@ My CV:
      height="24" 
 >
 </a>
+</div>
 <br/>
 <br/>
 <!-- SOCIALS BUTTONS -->
