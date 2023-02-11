@@ -44,8 +44,19 @@ Open source evangelist.
 &nbsp;
 &nbsp;
 &nbsp;
+<!-- HACKERRANK -->
 <a href="https://hackerrank.com/Alex_Colls" target="_blank">
 <img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank-logo.png" 
+     alt="Hackerrank profile"
+     height="24" 
+>
+</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<!-- CV -->
+<a href="https://hackerrank.com/Alex_Colls" target="_blank">
+<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
      alt="Hackerrank profile"
      height="24" 
 >
