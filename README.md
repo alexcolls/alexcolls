@@ -63,7 +63,7 @@ Open source evangelist.
 >
 </a>
 &nbsp;
-My Curriculum Vitae (CV)
+Curriculum Vitae (CV)
 </div>
 
 <!-- DISCORD -->
