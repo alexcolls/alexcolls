@@ -2,15 +2,15 @@
 
 [![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
 
-A Software Engineer, focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
+A Software Engineer focused in developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
 <br/>
 Currently working in the Solana blockchain. Although, I do have experience in Ethereum, Polygon and EOSio smart contracts.
 <br/>
 <br/>
-A Data Scientist, passionate about Deep Learning. Currently working in the field building social media bots that use the latest Natural Language Processing (NLP) models to interact with your social accounts like a humanoid without being detected.
+A Data Scientist passionate about Deep Learning. Currently working in the field building social media bots that use the latest Natural Language Processing (NLP) models to interact with your social accounts like a humanoid without being detected.
 <br/>
 <br/>
-A Quant, after 10 years trading global financial markets with algorithms. Specialized in High Frequency Trading (HTF) and Market Making (MM) systems. Currently working only in Financial Options trading models.
+A Quant trading global financial markets with algorithms for over 10 years. Specialized in High Frequency Trading (HTF) and Market Making (MM) systems. Currently working only in Financial Options trading models.
 <br/>
 <br/>
 Open source evangelist.
