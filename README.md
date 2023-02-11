@@ -65,8 +65,6 @@ My CV:
 >
 </a>
 </div>
-<br/>
-<br/>
 
 <!-- DISCORD -->
 <!-- Light Mode -->
