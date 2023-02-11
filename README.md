@@ -57,9 +57,9 @@ Open source evangelist.
 <!-- CODEWARS -->
 <a href="https://www.codewars.com/users/quantium-rock" target="_blank">
 <img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/codewars-logo.png" 
-     alt="Hackerrank profile"
+     alt="Codewars profile"
      height="30"
-     styles="{border-radius:100px}"
+     styles="{border-radius: 30px !important!;}"
 >
 </a>
 &nbsp;
