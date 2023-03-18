@@ -13,6 +13,9 @@ Data Scientist passionate about Deep Learning. Currently working in the field bu
 Retired quant trading global financial markets with algorithms for over 10 years. Specialized in High Frequency Trading (HTF) and Market Making (MM) systems. Currently working only on Financial Options trading models for fun.
 <br/>
 <br/>
+Open source evangelist.
+<br/>
+<br/>
 <!-- 
 Open source evangelist.
 <br/>
