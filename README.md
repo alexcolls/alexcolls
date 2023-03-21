@@ -10,7 +10,7 @@ Currently working in the Solana blockchain. Although, I do have experience in Et
 Data Scientist passionate about Deep Learning. Currently working in the field building social media bots that use the latest Natural Language Processing (NLP) models to interact with your social accounts like a humanoid without being detected.
 <br/>
 <br/>
-Retired quant trading global financial markets with algorithms for over 10 years. Specialized in Quantitative Risk Management (QRS), High Frequency Trading (HTF) and Market Making (MM) systems. Currently working only on American Options trading models for fun.
+Retired quant trading global financial markets with algorithms for over 10 years. Specialized in Quantitative Risk Management (QRS), High Frequency Trading (HTF) and Market Making (MM) trading systems. Currently working only on American Options modeling for fun.
 <br/>
 <br/>
 Open source evangelist.
