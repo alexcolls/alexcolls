@@ -153,20 +153,20 @@ Curriculum Vitae (CV)
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quantium-rock&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=550&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Quantium Rock's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quantium-rock&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=400&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Quantium Rock's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=550&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Quantium Rock's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=400&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Quantium Rock's Github stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quantium-rock&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&theme=dark&card_width=550&bg_color=000000#gh-dark-mode-only" alt="Quantium Rock's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quantium-rock&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&theme=dark&card_width=400&bg_color=000000#gh-dark-mode-only" alt="Quantium Rock's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=550&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Quantium Rock's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=400&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Quantium Rock's Github stats" />
 </a>
 </div>
 <br/>
