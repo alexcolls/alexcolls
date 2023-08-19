@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Alex
 
-[![Github](https://img.shields.io/github/followers/quantium-rock?label=Follow&style=social)](https://github.com/quantium-rock)
+[![Github](https://img.shields.io/github/followers/alexcolls?label=Follow&style=social)](https://github.com/alexcolls)
 
 Software Engineer focused on developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
 <br/>
@@ -51,7 +51,7 @@ Open source evangelist.
 &nbsp;
 <!-- HACKERRANK -->
 <a href="https://hackerrank.com/Alex_Colls" target="_blank">
-<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/hackerrank-logo.png" 
+<img src="https://github.com/alexcolls/alexcolls/blob/main/img/hackerrank-logo.png" 
      alt="Hackerrank profile"
      height="22" 
 >
@@ -60,8 +60,8 @@ Open source evangelist.
 &nbsp;
 &nbsp;
 <!-- CODEWARS -->
-<a href="https://www.codewars.com/users/quantium-rock" target="_blank">
-<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/codewars-logo.png" 
+<a href="https://www.codewars.com/users/alexcolls" target="_blank">
+<img src="https://github.com/alexcolls/alexcolls/blob/main/img/codewars-logo.png" 
      alt="Codewars profile"
      height="30"
      styles="{border-radius: 30px !important!;}"
@@ -72,8 +72,8 @@ Open source evangelist.
 &nbsp;
 <br/>
 <br/>
-<a href="https://github.com/quantium-rock/quantium-rock/blob/main/docs/Alex%20Colls%20CV%202023.pdf" target="_blank">
-<img src="https://github.com/quantium-rock/quantium-rock/blob/main/img/cv-icon.webp" 
+<a href="https://github.com/alexcolls/alexcolls/blob/main/docs/Alex%20Colls%20CV%202023.pdf" target="_blank">
+<img src="https://github.com/alexcolls/alexcolls/blob/main/img/cv-icon.webp" 
      alt="My CV"
      height="32" 
 >
@@ -153,20 +153,20 @@ Curriculum Vitae (CV)
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quantium-rock&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Quantium Rock's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Alelx Colls' Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Quantium Rock's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Alex Colls' Github stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quantium-rock&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&theme=dark&card_width=450&bg_color=000000#gh-dark-mode-only" alt="Quantium Rock's Language stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile,shell&langs_count=12&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&theme=dark&card_width=450&bg_color=000000#gh-dark-mode-only" alt="Alex Colls' Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quantium-rock&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Quantium Rock's Github stats" />
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Alex Colls' Github stats" />
 </a>
 </div>
 <br/>
