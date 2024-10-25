@@ -72,7 +72,7 @@ Open source evangelist.
 &nbsp;
 <br/>
 <br/>
-<a href="https://github.com/alexcolls/alexcolls/blob/main/docs/Alex%20Colls%20CV%202023.pdf" target="_blank">
+<a href="https://github.com/alexcolls/alexcolls/blob/main/docs/Alex%20Colls%20CV%202024.pdf" target="_blank">
 <img src="https://github.com/alexcolls/alexcolls/blob/main/img/cv-icon.webp" 
      alt="My CV"
      height="32" 
