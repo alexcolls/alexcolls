@@ -18,9 +18,9 @@
 
 🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation.
 
-.
-.
-. Morira stand ✊
+❤️ Always learning...
+
+... Morira stand ✊
 
 <br/>
 
