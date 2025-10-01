@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-💼 **Software Engineer & Systems Architect** with a decade of experience as a quantitative trader and hedge fund manager. Passionate about electronic markets, high-frequency trading (HFT), and the intersection of finance and technology.
+💼 **Software Engineer & Systems Architect** with a decade of experience as a quantitative trader and hedge fund manager. Passionate about electronic markets, high-frequency trading (HFT), market making, automated options and stocks trading and the intersection of finance and technology.
 
 🧠 **Data Science & AI Expert** - Deep expertise in mathematics, physics, and cutting-edge AI technologies including embeddings, vector databases, semantic search, video processing, and real-time streaming (WebSockets). Building intelligent systems that push boundaries.
 
@@ -15,6 +15,8 @@
 🔐 **Security Enthusiast** - Pentesting skills and ethical hacking experience. Strong advocate for secure-by-design systems.
 
 🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation.
+
+✊ Morira stand.
 
 <br/>
 
