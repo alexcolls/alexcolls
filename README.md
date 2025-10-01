@@ -16,7 +16,8 @@ Retired quant trading global financial markets with algorithms and discretionary
 Open source evangelist.
 <br/>
 <br/>
-<!-- 
+
+<!--
 Open source evangelist.
 <br/>
 <br/>
