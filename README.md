@@ -2,95 +2,24 @@
 
 [![Github](https://img.shields.io/github/followers/alexcolls?label=Follow&style=social)](https://github.com/alexcolls)
 
-Software Engineer focused on developing web3 applications. Obsessed with bringing blockchain technology to the mainstream.
-<br/>
-Currently working in the Solana blockchain. Although, I do have experience in Ethereum, Polygon and EOSio smart contracts.
-<br/>
-<br/>
-Data Scientist passionate about Deep Learning. Currently working in the field building social media bots that use the latest Natural Language Processing (NLP) models to interact with your social accounts like a humanoid without being detected.
-<br/>
-<br/>
-Retired quant trading global financial markets with algorithms and discretionary for over 10 years. Specialized in quantitative risk management (QRS), high frequency trading (HTF) and market making (MM) trading systems. Currently working on american options modeling for fun.
-<br/>
-<br/>
-Open source evangelist.
-<br/>
-<br/>
+## 🚀 About Me
 
-<!--
-Open source evangelist.
-<br/>
-<br/>
--->
+💼 **Software Engineer & Systems Architect** with a decade of experience as a quantitative trader and hedge fund manager. Passionate about electronic markets, high-frequency trading (HFT), and the intersection of finance and technology.
 
-<!-- DISCORD -->
-<!-- Light Mode -->
-<!-- <a href="https://discord.gg/HXmCeSH8jr#gh-light-mode-only">
-<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
-</a> -->
-<!-- Dark Mode -->
-<!-- <a href="https://discord.gg/HXmCeSH8jr#gh-dark-mode-only">
-<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
-</a> -->
+🧠 **Data Science & AI Expert** - Deep expertise in mathematics, physics, and cutting-edge AI technologies including embeddings, vector databases, semantic search, video processing, and real-time streaming (WebSockets). Building intelligent systems that push boundaries.
 
-<!-- HACKERRANK -->
-<!-- Light Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
-</a>
--->
-<!-- Dark Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
-</a>
--->
+☁️ **DevOps & Cloud Architect** - Proficient in Kubernetes, GPU optimization, and high-performance audio/video processing pipelines. Focused on scalable, resilient infrastructure for demanding applications.
 
-<!-- CODEWARS -->
-<!-- Light Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
-</a>
--->
-<!-- Dark Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
-</a>
--->
+⚡ **Web3 Blockchain Developer** - Exclusively working with Solana, the only blockchain I code on. Committed to building the decentralized future.
 
-<!-- KAGGLE -->
-<!-- Light Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
-</a>
--->
-<!-- Dark Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
-</a>
--->
+🔐 **Security Enthusiast** - Pentesting skills and ethical hacking experience. Strong advocate for secure-by-design systems.
 
-<!-- DATACAMP -->
-<!-- Light Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-light-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="HackeRank" >
-</a>
--->
-<!-- Dark Mode -->
-<!--
-<a href="https://www.hackerrank.com/Alex_Colls#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/tech-stack-0690fa.svg" alt="Hacker Rank" >
-</a>
--->
+🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation.
 
 <br/>
-<br/>
+
+## 📊 GitHub Stats
+
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
