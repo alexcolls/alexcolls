@@ -4,7 +4,9 @@
 
 ## 🚀 About Me
 
-💼 **Software Engineer & Systems Architect** with a decade of experience as a quantitative trader and hedge fund manager. Passionate about electronic markets, high-frequency trading (HFT), market making, automated options and stocks trading and the intersection of finance and technology.
+💻 **Software Engineer & Systems Architect** - Building high-performance systems and scalable architectures. Expert in distributed systems, real-time processing, and infrastructure design that powers modern applications.
+
+📈 **Quant Senior** - A decade of experience as a quantitative trader and hedge fund manager. Passionate about electronic markets, high-frequency trading (HFT), market making, automated options and stocks trading, and the intersection of finance and technology.
 
 🧠 **Data Science & AI Expert** - Deep expertise in mathematics, physics, and cutting-edge AI technologies including embeddings, vector databases, semantic search, video processing, and real-time streaming (WebSockets). Building intelligent systems that push boundaries.
 
