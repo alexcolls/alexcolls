@@ -18,7 +18,7 @@
 
 🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation.
 
-❤️ Always learning...
+❤️ Always learning . . .
 
 . . . Moriar stans ✊
 
