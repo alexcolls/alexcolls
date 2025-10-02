@@ -12,7 +12,7 @@
 
 ☁️ **DevOps & Cloud Architect** - Proficient in Kubernetes, GPU optimization, and high-performance audio/video processing pipelines. Focused on scalable, resilient infrastructure for demanding applications.
 
-⚡ **Web3 Blockchain Developer** - Exclusively working with Solana and Bitcoin, the only blockchains I code on. Committed to building the decentralized future and massive adoption.
+⚡ **Web3 Blockchain Developer** - Exclusively working with Solana and Bitcoin, the only blockchains I code on. Committed to building the decentralized future for massive adoption.
 
 🔐 **Security Enthusiast** - Pentesting skills and ethical hacking experience. Strong advocate for secure-by-design systems.
 
