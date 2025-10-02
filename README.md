@@ -20,7 +20,7 @@
 
 ❤️ Always learning...
 
-... Morira stand ✊
+. . . Moriar stans ✊
 
 <br/>
 
