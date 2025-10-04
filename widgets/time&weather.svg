@@ -17,22 +17,22 @@
     </filter>
   </defs>
   
-  <!-- Background with PINK BORDER -->
+  <!-- Background -->
   <rect width="600" height="170" rx="10" fill="url(#bgGrad)" stroke="#ff1493" stroke-width="3"/>
   
   <!-- Time Section -->
   <text x="20" y="28" font-family="'Courier New', monospace" font-size="12" fill="#00ff00" font-weight="bold">🏖️ BARCELONA</text>
-  <text x="20" y="55" font-family="'Courier New', monospace" font-size="32" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">09:03:19</text>
+  <text x="20" y="55" font-family="'Courier New', monospace" font-size="32" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">09:10:32</text>
   <text x="20" y="70" font-family="'Arial', sans-serif" font-size="9" fill="#8b949e">Saturday, October 04, 2025</text>
   
-  <!-- New York Time with MORE SPACE -->
+  <!-- New York Time -->
   <text x="20" y="100" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" font-weight="bold">🗽 NEW YORK</text>
-  <text x="20" y="130" font-family="'Courier New', monospace" font-size="32" fill="#58a6ff" font-weight="bold">03:03:19</text>
+  <text x="20" y="130" font-family="'Courier New', monospace" font-size="32" fill="#58a6ff" font-weight="bold">03:10:32</text>
   
   <!-- Divider -->
   <line x1="300" y1="15" x2="300" y2="155" stroke="#30363d" stroke-width="2"/>
   
-  <!-- Weather Section with GREEN COLOR -->
+  <!-- Weather Section -->
   <text x="320" y="30" font-family="'Arial', sans-serif" font-size="14" fill="#00ff00" font-weight="bold">🌤️ BCN WEATHER</text>
   <text x="320" y="75" font-family="'Arial', sans-serif" font-size="40" fill="#ffffff" font-weight="bold">🌙 18°C</text>
   <text x="320" y="100" font-family="'Arial', sans-serif" font-size="14" fill="#8b949e">Clear</text>
@@ -40,5 +40,5 @@
   <text x="320" y="145" font-family="'Arial', sans-serif" font-size="12" fill="#8b949e">Wind 9 km/h W</text>
   
   <!-- Footer -->
-  <text x="300" y="162" font-family="'Arial', sans-serif" font-size="8" fill="#484f58" text-anchor="middle">Updates every 1 min • Click for forecast</text>
+  <text x="300" y="162" font-family="'Arial', sans-serif" font-size="8" fill="#484f58" text-anchor="middle">Updates every 5 min • Click for forecast</text>
 </svg>
