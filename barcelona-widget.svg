@@ -22,7 +22,7 @@
   
   <!-- Time Section -->
   <text x="20" y="40" font-family="'Courier New', monospace" font-size="14" fill="#00ff00" font-weight="bold">⚡ BARCELONA LIVE</text>
-  <text x="20" y="80" font-family="'Courier New', monospace" font-size="48" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">07:21:06</text>
+  <text x="20" y="80" font-family="'Courier New', monospace" font-size="48" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">07:24:05</text>
   <text x="20" y="105" font-family="'Arial', sans-serif" font-size="12" fill="#8b949e">Saturday, October 04, 2025</text>
   
   <!-- Divider -->
