@@ -1,7 +1,12 @@
-<!-- Carousel Header -->
+<!-- Rotating Header Images -->
 <div align="center">
-  <img src="./widgets/carousel.svg" alt="Header" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexcolls/alexcolls/main/img/barcelona.png">
+    <img src="https://raw.githubusercontent.com/alexcolls/alexcolls/main/img/dante.webp" alt="Header" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
+  </picture>
 </div>
+
+<br/>
 
 ### Hey 👋, I'm <span style="color: #00ff00;">Alex</span>
 
