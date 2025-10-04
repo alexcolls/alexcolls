@@ -4,8 +4,14 @@
   <a href="https://github.com/alexcolls">
     <img src="https://img.shields.io/github/followers/alexcolls?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://wttr.in/Barcelona.png?0&t&q&format=%F+%l:+%c+%t+%w" alt="Barcelona Weather" />
+  <br/><br/>
+  <a href="https://www.timeanddate.com/worldclock/spain/barcelona">
+    <img src="https://img.shields.io/badge/%F0%9F%95%90%20Barcelona%20Time-Click%20for%20Live%20Clock-00ff00?style=for-the-badge" alt="Barcelona Time" />
+  </a>
+  <br/>
+  <a href="https://wttr.in/Barcelona">
+    <img src="https://wttr.in/Barcelona.png?0pqT" alt="Barcelona Weather" width="400" />
+  </a>
   <br/>
   <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>
 </div>
