@@ -1,9 +1,6 @@
-<!-- Rotating Header Images -->
+<!-- Animated Carousel Header - Rotates every 3 seconds -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexcolls/alexcolls/main/img/barcelona.png">
-    <img src="https://raw.githubusercontent.com/alexcolls/alexcolls/main/img/dante.webp" alt="Header" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
-  </picture>
+  <img src="./img/carousel.gif" alt="Header Carousel" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 </div>
 
 <br/>
