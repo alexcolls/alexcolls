@@ -16,7 +16,7 @@
 
 🔐 **Security Enthusiast** - Pentesting skills and ethical hacking experience. Strong advocate for secure-by-design systems.
 
-🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation. DM for colabs!
+🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation. [<span style="color: #00ff00;">**DM for colabs!**</span>](https://linktr.ee/alexcolls)
 
 ❤️ Always learning.
 
