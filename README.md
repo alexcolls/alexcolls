@@ -4,6 +4,10 @@
   <a href="https://github.com/alexcolls">
     <img src="https://img.shields.io/github/followers/alexcolls?label=Follow&style=social" alt="GitHub Follow" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:alexcollsoutumuro@gmail.com?subject=Hi%20Alex&body=Hi%20Alex%2C%0A%0A" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
   <br/><br/>
   <!-- Custom Barcelona Time & Weather Widget -->
   <a href="https://wttr.in/Barcelona">
