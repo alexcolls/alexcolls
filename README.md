@@ -6,6 +6,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://wttr.in/Barcelona.png?0&t&q&format=%F+%l:+%c+%t+%w" alt="Barcelona Weather" />
+  <br/>
+  <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>
 </div>
 
 ## <span style="color: #4d4d4d;">🚀 About Me</span>
