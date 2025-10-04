@@ -112,7 +112,7 @@ jobs:
             </defs>
             
             <!-- Background -->
-            <rect width="600" height="170" rx="10" fill="url(#bgGrad)" stroke="#00ff00" stroke-width="2"/>
+            <rect width="600" height="170" rx="10" fill="url(#bgGrad)" stroke="#ff69b4" stroke-width="2"/>
             
             <!-- Time Section -->
             <text x="20" y="28" font-family="'Courier New', monospace" font-size="12" fill="#00ff00" font-weight="bold">🏖️ BARCELONA</text>
