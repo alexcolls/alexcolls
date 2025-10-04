@@ -31,7 +31,25 @@ for pattern in image_patterns:
 
 # Filter out the carousel.gif itself
 image_files = [f for f in image_files if not f.endswith('carousel.gif')]
-image_files = sorted(image_files)  # Sort for consistent order
+
+# Custom order if specified, otherwise alphabetical
+custom_order = os.environ.get('IMAGE_ORDER', '').split(',')
+if custom_order and custom_order[0]:
+    # Sort by custom order
+    ordered_files = []
+    for name in custom_order:
+        name = name.strip()
+        for img_file in image_files:
+            if name in os.path.basename(img_file):
+                ordered_files.append(img_file)
+                break
+    # Add any remaining files not in custom order
+    for img_file in image_files:
+        if img_file not in ordered_files:
+            ordered_files.append(img_file)
+    image_files = ordered_files
+else:
+    image_files = sorted(image_files)  # Sort alphabetically by default
 
 if not image_files:
     print(f"❌ No images found in {img_dir}")
