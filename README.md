@@ -6,7 +6,7 @@
   </a>
   <br/><br/>
   <a href="https://www.timeanddate.com/worldclock/spain/barcelona">
-    <img src="https://img.shields.io/badge/dynamic/json?color=00ff00&label=%F0%9F%95%90%20Barcelona&query=datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FMadrid&style=for-the-badge&cacheSeconds=60" alt="Barcelona Time" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=0d1117&label=%E2%9A%A1%20BCN%20%E2%80%A2%20LIVE&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FMadrid&suffix=%20CET&style=for-the-badge&labelColor=00ff00&logo=clockify&logoColor=000000" alt="Barcelona Time" />
   </a>
   <br/>
   <a href="https://wttr.in/Barcelona">
