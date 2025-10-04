@@ -5,9 +5,9 @@
     <img src="https://img.shields.io/github/followers/alexcolls?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <br/><br/>
-  <!-- Barcelona Weather Card -->
+  <!-- Custom Barcelona Time & Weather Widget -->
   <a href="https://wttr.in/Barcelona">
-    <img src="https://wttr.in/Barcelona_0tqp_lang=en.png" alt="Barcelona Weather" width="500" />
+    <img src="./barcelona-widget.svg" alt="Barcelona Live Time & Weather" />
   </a>
   <br/>
   <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>

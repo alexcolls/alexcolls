@@ -1,0 +1,143 @@
+name: Update Barcelona Widget
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Every 5 minutes
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-widget:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests pytz
+      
+      - name: Generate Barcelona Widget
+        run: |
+          python3 << 'EOF'
+          import requests
+          import json
+          from datetime import datetime
+          import pytz
+
+          # Get Barcelona time
+          bcn_tz = pytz.timezone('Europe/Madrid')
+          now = datetime.now(bcn_tz)
+          
+          # Format time
+          time_str = now.strftime('%H:%M:%S')
+          date_str = now.strftime('%A, %B %d, %Y')
+          
+          # Get weather data
+          try:
+              weather_url = "https://wttr.in/Barcelona?format=j1"
+              response = requests.get(weather_url, timeout=10)
+              weather_data = response.json()
+              
+              current = weather_data['current_condition'][0]
+              temp = current['temp_C']
+              feels_like = current['FeelsLikeC']
+              weather_desc = current['weatherDesc'][0]['value']
+              humidity = current['humidity']
+              wind_speed = current['windspeedKmph']
+              wind_dir = current['winddir16Point']
+              
+              # Weather icon mapping
+              weather_icons = {
+                  'Sunny': '☀️',
+                  'Clear': '🌙',
+                  'Partly cloudy': '⛅',
+                  'Cloudy': '☁️',
+                  'Overcast': '☁️',
+                  'Mist': '🌫️',
+                  'Patchy rain possible': '🌦️',
+                  'Light rain': '🌧️',
+                  'Moderate rain': '🌧️',
+                  'Heavy rain': '⛈️',
+                  'Thundery outbreaks possible': '⚡'
+              }
+              
+              icon = '🌤️'
+              for key in weather_icons:
+                  if key.lower() in weather_desc.lower():
+                      icon = weather_icons[key]
+                      break
+                      
+          except Exception as e:
+              temp = "??"
+              weather_desc = "Loading..."
+              icon = "🌤️"
+              humidity = "??"
+              wind_speed = "??"
+              wind_dir = "?"
+              feels_like = "??"
+          
+          # Create stunning SVG
+          svg = f'''<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+              </linearGradient>
+              <linearGradient id="timeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" style="stop-color:#00ff00;stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#00cc00;stop-opacity:1" />
+              </linearGradient>
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+                <feMerge>
+                  <feMergeNode in="coloredBlur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+            
+            <!-- Background -->
+            <rect width="600" height="200" rx="10" fill="url(#bgGrad)" stroke="#00ff00" stroke-width="2"/>
+            
+            <!-- Time Section -->
+            <text x="20" y="40" font-family="'Courier New', monospace" font-size="14" fill="#00ff00" font-weight="bold">⚡ BARCELONA LIVE</text>
+            <text x="20" y="80" font-family="'Courier New', monospace" font-size="48" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">{time_str}</text>
+            <text x="20" y="105" font-family="'Arial', sans-serif" font-size="12" fill="#8b949e">{date_str}</text>
+            
+            <!-- Divider -->
+            <line x1="300" y1="20" x2="300" y2="180" stroke="#30363d" stroke-width="2"/>
+            
+            <!-- Weather Section -->
+            <text x="320" y="40" font-family="'Arial', sans-serif" font-size="14" fill="#58a6ff" font-weight="bold">🌤️ CURRENT WEATHER</text>
+            <text x="320" y="75" font-family="'Arial', sans-serif" font-size="40" fill="#ffffff" font-weight="bold">{icon} {temp}°C</text>
+            <text x="320" y="100" font-family="'Arial', sans-serif" font-size="14" fill="#8b949e">{weather_desc}</text>
+            <text x="320" y="125" font-family="'Arial', sans-serif" font-size="12" fill="#8b949e">Feels like {feels_like}°C • Humidity {humidity}%</text>
+            <text x="320" y="145" font-family="'Arial', sans-serif" font-size="12" fill="#8b949e">Wind {wind_speed} km/h {wind_dir}</text>
+            
+            <!-- Footer -->
+            <text x="300" y="185" font-family="'Arial', sans-serif" font-size="10" fill="#484f58" text-anchor="middle">Updates every 5 minutes • Click for full forecast</text>
+          </svg>'''
+          
+          # Save SVG
+          with open('barcelona-widget.svg', 'w') as f:
+              f.write(svg)
+          
+          print("Widget generated successfully!")
+          EOF
+      
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add barcelona-widget.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update Barcelona widget [automated]" && git push)
