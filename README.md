@@ -1,6 +1,12 @@
 ### Hey 👋, I'm <span style="color: #00ff00;">Alex</span>
 
-[![Github](https://img.shields.io/github/followers/alexcolls?label=Follow&style=social)](https://github.com/alexcolls)
+<div align="left">
+  <a href="https://github.com/alexcolls">
+    <img src="https://img.shields.io/github/followers/alexcolls?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://wttr.in/Barcelona.png?0&t&q&format=%F+%l:+%c+%t+%w" alt="Barcelona Weather" />
+</div>
 
 ## <span style="color: #4d4d4d;">🚀 About Me</span>
 
