@@ -41,14 +41,41 @@ print(f"📸 Found {len(image_files)} images:")
 for img in image_files:
     print(f"  - {os.path.basename(img)}")
 
-# Load and resize all images
+# Load and crop all images from center (no distortion)
+target_width = 900
+target_height = 188
 images = []
+
 for img_file in image_files:
     try:
         img = Image.open(img_file).convert('RGB')
-        img = img.resize((900, 188), Image.Resampling.LANCZOS)
+        original_width, original_height = img.size
+        
+        # Calculate aspect ratios
+        target_ratio = target_width / target_height
+        original_ratio = original_width / original_height
+        
+        # Resize to fit one dimension, then crop the other
+        if original_ratio > target_ratio:
+            # Image is wider - fit height, crop width
+            new_height = target_height
+            new_width = int(original_width * (target_height / original_height))
+        else:
+            # Image is taller - fit width, crop height  
+            new_width = target_width
+            new_height = int(original_height * (target_width / original_width))
+        
+        img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+        
+        # Crop from center
+        left = (new_width - target_width) // 2
+        top = (new_height - target_height) // 2
+        right = left + target_width
+        bottom = top + target_height
+        
+        img = img.crop((left, top, right, bottom))
         images.append(img)
-        print(f"✓ Loaded: {os.path.basename(img_file)}")
+        print(f"✓ Loaded & cropped: {os.path.basename(img_file)} ({original_width}x{original_height} → {target_width}x{target_height})")
     except Exception as e:
         print(f"⚠️  Failed to load {os.path.basename(img_file)}: {e}")
 
