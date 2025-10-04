@@ -16,7 +16,7 @@
 
 🔐 **Security Enthusiast** - Pentesting skills and ethical hacking experience. Strong advocate for secure-by-design systems.
 
-🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation.
+🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation. DM for colabs!
 
 ❤️ Always learning . . .
 
