@@ -5,12 +5,9 @@
     <img src="https://img.shields.io/github/followers/alexcolls?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <br/><br/>
-  <a href="https://www.timeanddate.com/worldclock/spain/barcelona">
-    <img src="https://img.shields.io/badge/dynamic/json?color=0d1117&label=%E2%9A%A1%20BCN%20%E2%80%A2%20LIVE&query=%24.datetime&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Ftimezone%2FEurope%2FMadrid&suffix=%20CET&style=for-the-badge&labelColor=00ff00&logo=clockify&logoColor=000000" alt="Barcelona Time" />
-  </a>
-  <br/>
+  <!-- Barcelona Weather Card -->
   <a href="https://wttr.in/Barcelona">
-    <img src="https://wttr.in/Barcelona.png?0pqT" alt="Barcelona Weather" width="400" />
+    <img src="https://wttr.in/Barcelona_0tqp_lang=en.png" alt="Barcelona Weather" width="500" />
   </a>
   <br/>
   <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>
