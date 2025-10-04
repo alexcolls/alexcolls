@@ -1,0 +1,69 @@
+name: Update Carousel Widget
+
+on:
+  schedule:
+    - cron: '*/3 * * * *'  # Every 3 minutes to rotate images
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-carousel:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Generate Carousel SVG
+        run: |
+          python3 << 'EOF'
+          import os
+          import time
+          
+          # Get list of images in img folder
+          img_folder = 'img'
+          images = []
+          if os.path.exists(img_folder):
+              for file in os.listdir(img_folder):
+                  if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                      images.append(f'{img_folder}/{file}')
+          
+          if not images:
+              print("No images found, skipping carousel update")
+              exit(0)
+          
+          # Rotate based on time (changes every 3 minutes)
+          current_index = (int(time.time()) // 180) % len(images)
+          current_image = images[current_index]
+          
+          print(f"Current carousel image: {current_image}")
+          
+          # Create SVG that embeds the current image
+          svg = f'''<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs>
+              <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" style="stop-color:#00ff00;stop-opacity:0.8" />
+                <stop offset="100%" style="stop-color:#00cc00;stop-opacity:0.8" />
+              </linearGradient>
+            </defs>
+            <image href="{current_image}" width="100%" height="200" preserveAspectRatio="xMidYMid slice"/>
+            <rect width="100%" height="200" fill="url(#headerGrad)" opacity="0.1"/>
+          </svg>'''
+          
+          # Save to widgets folder
+          os.makedirs('widgets', exist_ok=True)
+          with open('widgets/carousel.svg', 'w') as f:
+              f.write(svg)
+          
+          print("Carousel widget generated!")
+          EOF
+      
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add widgets/carousel.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎠 Update carousel [automated]" && git push)

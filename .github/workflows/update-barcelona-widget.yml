@@ -115,19 +115,19 @@ jobs:
             <rect width="600" height="170" rx="10" fill="url(#bgGrad)" stroke="#00ff00" stroke-width="2"/>
             
             <!-- Time Section -->
-            <text x="20" y="28" font-family="'Courier New', monospace" font-size="12" fill="#00ff00" font-weight="bold">⚡ BARCELONA LIVE</text>
+            <text x="20" y="28" font-family="'Courier New', monospace" font-size="12" fill="#00ff00" font-weight="bold">🏖️ BARCELONA</text>
             <text x="20" y="55" font-family="'Courier New', monospace" font-size="32" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">{bcn_time_str}</text>
             <text x="20" y="70" font-family="'Arial', sans-serif" font-size="9" fill="#8b949e">{date_str}</text>
             
             <!-- New York Time -->
-            <text x="20" y="95" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" font-weight="bold">🗽 NEW YORK LIVE</text>
+            <text x="20" y="95" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" font-weight="bold">🗽 NEW YORK</text>
             <text x="20" y="122" font-family="'Courier New', monospace" font-size="32" fill="#58a6ff" font-weight="bold">{ny_time_str}</text>
             
             <!-- Divider -->
             <line x1="300" y1="15" x2="300" y2="155" stroke="#30363d" stroke-width="2"/>
             
             <!-- Weather Section -->
-            <text x="320" y="40" font-family="'Arial', sans-serif" font-size="14" fill="#58a6ff" font-weight="bold">🌤️ CURRENT WEATHER</text>
+            <text x="320" y="30" font-family="'Arial', sans-serif" font-size="14" fill="#58a6ff" font-weight="bold">🌤️ BCN WEATHER</text>
             <text x="320" y="75" font-family="'Arial', sans-serif" font-size="40" fill="#ffffff" font-weight="bold">{icon} {temp}°C</text>
             <text x="320" y="100" font-family="'Arial', sans-serif" font-size="14" fill="#8b949e">{weather_desc}</text>
             <text x="320" y="125" font-family="'Arial', sans-serif" font-size="12" fill="#8b949e">Feels like {feels_like}°C • Humidity {humidity}%</text>
@@ -137,8 +137,10 @@ jobs:
             <text x="300" y="162" font-family="'Arial', sans-serif" font-size="8" fill="#484f58" text-anchor="middle">Updates every 5 min • Click for forecast</text>
           </svg>'''
           
-          # Save SVG
-          with open('barcelona-widget.svg', 'w') as f:
+          # Save SVG to widgets folder
+          import os
+          os.makedirs('widgets', exist_ok=True)
+          with open('widgets/time&weather.svg', 'w') as f:
               f.write(svg)
           
           print("Widget generated successfully!")
@@ -148,5 +150,5 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add barcelona-widget.svg
+          git add widgets/time\&weather.svg
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Update Barcelona widget [automated]" && git push)

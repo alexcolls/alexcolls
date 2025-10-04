@@ -1,3 +1,8 @@
+<!-- Carousel Header -->
+<div align="center">
+  <img src="./widgets/carousel.svg" alt="Header" width="100%" />
+</div>
+
 ### Hey 👋, I'm <span style="color: #00ff00;">Alex</span>
 
 <div align="left">
@@ -11,7 +16,7 @@
   <br/><br/>
   <!-- Custom Barcelona Time & Weather Widget -->
   <a href="https://wttr.in/Barcelona">
-    <img src="./barcelona-widget.svg" alt="Barcelona Live Time & Weather" />
+    <img src="./widgets/time&weather.svg" alt="Barcelona Live Time & Weather" />
   </a>
   <br/>
   <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>
