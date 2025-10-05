@@ -22,12 +22,12 @@
   
   <!-- Time Section -->
   <text x="20" y="28" font-family="'Courier New', monospace" font-size="12" fill="#00ff00" font-weight="bold">🏖️ BARCELONA</text>
-  <text x="20" y="55" font-family="'Courier New', monospace" font-size="32" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">03:08:41</text>
+  <text x="20" y="55" font-family="'Courier New', monospace" font-size="32" fill="url(#timeGrad)" font-weight="bold" filter="url(#glow)">03:48:29</text>
   <text x="20" y="70" font-family="'Arial', sans-serif" font-size="9" fill="#8b949e">Sunday, October 05, 2025</text>
   
   <!-- New York Time -->
   <text x="20" y="100" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" font-weight="bold">🗽 NEW YORK</text>
-  <text x="20" y="130" font-family="'Courier New', monospace" font-size="32" fill="#58a6ff" font-weight="bold">21:08:41</text>
+  <text x="20" y="130" font-family="'Courier New', monospace" font-size="32" fill="#58a6ff" font-weight="bold">21:48:29</text>
   
   <!-- Divider -->
   <line x1="300" y1="15" x2="300" y2="155" stroke="#30363d" stroke-width="2"/>
