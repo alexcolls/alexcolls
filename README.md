@@ -40,6 +40,10 @@
 
 🌍 **Open Source Evangelist** - Believer in the power of open collaboration and community-driven innovation. [<span style="color: #00ff00;">**DM for colabs!**</span>](https://linktr.ee/alexcolls)
 
+♟️ Chess GM.
+
+🏂 Snowboarder pro.
+
 <span style="color: #ff0000;">❤️ Always learning.</span>
 
 <span style="color: #ff0000;">✊ Moriar stans.</span>
