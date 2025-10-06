@@ -3,6 +3,13 @@
   <img src="./img/carousel.gif" alt="Header Carousel" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 </div>
 
+<div>
+  ❝ Nel mezzo del cammin di nostra vita
+  mi ritrovai per una selva oscura,
+  ché la diritta via era smarrita. ❞
+  - Dante Alighieri's The Divine Comedy:  From Inferno 🔥
+</div>
+
 <br/>
 
 ### Hey 👋, I'm <span style="color: #00ff00;">Alex</span>
