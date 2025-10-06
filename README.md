@@ -4,9 +4,11 @@
 </div>
 
 <div>
+  <i>
   ❝ Nel mezzo del cammin di nostra vita
   mi ritrovai per una selva oscura,
-  ché la diritta via era smarrita. ❞
+  ché la diritta via era smarrita. ❞ 
+  </i>
   <br/>
   Dante Alighieri's The Divine Comedy, "From Inferno" 🔥
 </div>
@@ -29,7 +31,7 @@
     <img src="./widgets/time&weather.svg" alt="Barcelona Live Time & Weather" />
   </a>
   <br/>
-  <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>
+  <sub>pls, don't contact when it's raining... 🌧️</sub>
 </div>
 
 ## <span style="color: #4d4d4d;">🚀 About Me</span>
