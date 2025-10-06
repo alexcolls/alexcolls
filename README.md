@@ -8,7 +8,7 @@
   mi ritrovai per una selva oscura,
   ché la diritta via era smarrita. ❞
   <br/>
-  - Dante Alighieri's The Divine Comedy:  From Inferno 🔥
+  Dante Alighieri's The Divine Comedy:  From Inferno 🔥
 </div>
 
 <br/>
