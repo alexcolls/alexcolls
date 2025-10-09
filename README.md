@@ -10,7 +10,7 @@
   ché la diritta via era smarrita. ❞ 
   </i>
   <br/>
-  Dante Alighieri's The Divine Comedy, "From Inferno" 🔥
+  <strong>Dante Alighieri, <em>La Divina Commedia</em>, <em>Inferno</em> (Canto I)</strong> 🔥
 </div>
 
 <br/>
