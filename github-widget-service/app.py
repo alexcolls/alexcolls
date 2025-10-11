@@ -112,7 +112,12 @@ def widget():
   <text x="300" y="162" font-family="'Arial', sans-serif" font-size="8" fill="#484f58" text-anchor="middle">Live • Updates on every visit</text>
 </svg>'''
     
-    return Response(svg, mimetype='image/svg+xml')
+    # Add cache-control headers to prevent caching
+    response = Response(svg, mimetype='image/svg+xml')
+    response.headers['Cache-Control'] = 'no-cache, no-store, must-revalidate'
+    response.headers['Pragma'] = 'no-cache'
+    response.headers['Expires'] = '0'
+    return response
 
 @app.route('/health')
 def health():
