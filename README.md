@@ -28,10 +28,10 @@
   <br/><br/>
   <!-- Custom Barcelona Time & Weather Widget -->
   <a href="https://wttr.in/Barcelona">
-    <img src="https://wttr.in/Barcelona.png?F&n&q" alt="Barcelona Live Weather" />
+    <img src="./widgets/time&weather.svg" alt="Barcelona Live Time & Weather" />
   </a>
   <br/>
-  <sub><i>pls, don't contact when it's raining... 🌧️</i></sub>
+  <sub>pls, don't contact when it's raining... 🌧️</sub>
 </div>
 
 ## <span style="color: #4d4d4d;">🚀 About Me</span>
