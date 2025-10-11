@@ -28,7 +28,7 @@
   <br/><br/>
   <!-- Custom Barcelona Time & Weather Widget -->
   <a href="https://wttr.in/Barcelona">
-    <img src="./widgets/time&weather.svg" alt="Barcelona Live Time & Weather" />
+    <img src="https://alexcolls.onrender.com/widget.svg" alt="Barcelona Live Time & Weather" />
   </a>
   <br/>
   <sub>pls, don't contact when it's raining... 🌧️</sub>
