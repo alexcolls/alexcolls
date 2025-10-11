@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "alexcolls"
+version = "0.1.0"
+description = "Alex Colls GitHub Profile Repository"
+authors = ["Alex Colls <alexcollsoutumuro@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+Pillow = "^10.4.0"  # For carousel GIF generation script
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
