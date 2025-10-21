@@ -52,7 +52,7 @@
 
 ♟️ Chess GM.
 
-🏂 Freestyle snowboarder.
+🏂 Snowboarder lover.
 
 <span style="color: #ff0000;">❤️ Always learning.</span>
 
