@@ -17,8 +17,6 @@
 
 ### Hey 👋, I'm <span style="color: #00ff00;">Alex</span>
 
-## <span style="color: #4d4d4d;">🚀 About Me</span>
-
 💻 **Software Engineer & Systems Architect** - Building high-performance systems and scalable architectures. Expert in distributed systems, real-time processing, and infrastructure design that powers modern applications.
 
 📈 **Quant Senior** - A decade of experience as a quantitative trader and hedge fund manager. Passionate about electronic markets, high-frequency trading (HFT), market making, automated options and stocks trading, and the intersection of finance and technology.
