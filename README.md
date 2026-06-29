@@ -17,23 +17,6 @@
 
 ### Hey 👋, I'm <span style="color: #00ff00;">Alex</span>
 
-<div align="left">
-  <a href="https://github.com/alexcolls?tab=followers">
-    <img src="https://img.shields.io/github/followers/alexcolls?label=Follow&style=social" alt="GitHub Follow" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexcollsoutumuro@gmail.com&su=Hi%20Alex&body=Hi%20Alex%20%F0%9F%91%8B%2C%0A%0A" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=D14836" alt="Email Me" height="20" />
-  </a>
-  <br/><br/>
-  <!-- Custom Barcelona Time & Weather Widget -->
-  <a href="https://wttr.in/Barcelona">
-    <img src="https://alexcolls.onrender.com/widget.svg?v=2025" alt="Barcelona Live Time & Weather" />
-  </a>
-  <br/>
-  <sub>pls, don't contact when it's raining... 🌧️</sub>
-</div>
-
 ## <span style="color: #4d4d4d;">🚀 About Me</span>
 
 💻 **Software Engineer & Systems Architect** - Building high-performance systems and scalable architectures. Expert in distributed systems, real-time processing, and infrastructure design that powers modern applications.
