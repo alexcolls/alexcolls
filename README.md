@@ -178,8 +178,9 @@ Software engineer, systems architect, and **CTO**. After a decade in **quantitat
   This avoids the broken Vercel-hosted cards: Deployment Protection / SSO on the
   self-hosted instance 302s GitHub's image proxy, so remote cards rendered blank.
 
-  Optional repo secret STATS_PAT (scopes: repo + read:user) enables private-repo
-  counts; otherwise the workflow uses GITHUB_TOKEN (public data only).
+  Do not set count_private=true unless a STATS_PAT secret (scopes: repo +
+  read:user) is configured — GITHUB_TOKEN alone returns
+  "Resource not accessible by integration" and blanks the stats card.
 -->
 
 <!-- Light Mode -->
