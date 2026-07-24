@@ -158,8 +158,8 @@ Software engineer, systems architect, and **CTO**. After a decade in **quantitat
 
 | Project                                                             | Description                                                                      | Tech         |
 | :------------------------------------------------------------------ | :------------------------------------------------------------------------------- | :----------- |
-| [**kwami**](https://github.com/alexcolls/kwami)                     | 3D interactive AI companion library — visual, audio & speech-enabled AI entities | `TypeScript` |
 | [**darwin-agents**](https://github.com/alexcolls/darwin-agents)     | Self-modifying AI agents with programmable wallets & evolutionary fitness        | `Python`     |
+| [**kwami**](https://github.com/alexcolls/kwami)                     | 3D interactive AI companion library — visual, audio & speech-enabled AI entities | `TypeScript` |
 | [**z-trading**](https://github.com/alexcolls/z-trading)             | High-frequency trading framework with 300+ strategies across multiple venues     | `C`          |
 | [**rex-ai**](https://github.com/alexcolls/rex-ai)                   | Quantitative FX trading model using RNNs, LSTMs & Transformers                   | `Jupyter`    |
 | [**websec**](https://github.com/alexcolls/websec)                   | Web security & pentesting toolkit                                                | `Python`     |
