@@ -34,7 +34,7 @@
 
 ## 🧭 About
 
-Software engineer, systems architect, and **CTO**. After a decade in **quantitative finance**, I now lead engineering at the intersection of **high-performance systems, AI, and Web3** — obsessed with correctness, latency, and shipping things that hold up under real load, from trading engines to distributed AI infrastructure.
+Software engineer, systems architect, and **CTO**. After a decade in **quantitative finance**, I now lead engineering at the intersection of **high-performance systems, AI, and Web3**. Obsessed with correctness, latency, and shipping things that hold up under real load, from trading engines to distributed AI infrastructure.
 
 <!-- ============================================================= -->
 <!--  WHAT I DO                                                    -->
@@ -171,39 +171,26 @@ Software engineer, systems architect, and **CTO**. After a decade in **quantitat
 ## 📊 GitHub Stats
 
 <!--
-  Cards are served from a SELF-HOSTED github-readme-stats instance on Vercel
-  (project: github-readme-stats-pqad) to dodge the rate limits that break the
-  shared public instance.
+  Cards are static SVGs under img/stats/, refreshed daily by
+  .github/workflows/update-stats.yml (stats-organization/github-readme-stats-action).
 
-  REQUIRED so GitHub's image proxy can load these:
-    - Vercel → Project → Settings → Deployment Protection →
-      set "Vercel Authentication" to Disabled (else every request 302-redirects
-      to an SSO login and the card renders blank).
-    - Env var on the project:  PAT_1 = <GitHub PAT, scopes: repo + read:user>
+  This avoids the broken Vercel-hosted cards: Deployment Protection / SSO on the
+  self-hosted instance 302s GitHub's image proxy, so remote cards rendered blank.
 
-  The host below is the current deployment URL. If you redeploy the project its
-  hash changes — update it here, or add a stable custom domain in
-  Settings → Domains and point the cards at that instead.
+  Optional repo secret STATS_PAT (scopes: repo + read:user) enables private-repo
+  counts; otherwise the workflow uses GITHUB_TOKEN (public data only).
 -->
 
 <!-- Light Mode -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats-pqad-fb8092256-alexcolls.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default&title_color=00ff00&text_color=24292f&icon_color=0366d6&bg_color=ffffff#gh-light-mode-only" alt="Alex Colls' Language stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats-pqad-fb8092256-alexcolls.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&title_color=00ff00&text_color=24292f&icon_color=79c0ff&bg_color=ffffff#gh-light-mode-only" alt="Alex Colls' GitHub stats" />
-  </a>
+  <img height="200" src="./img/stats/top-langs-light.svg#gh-light-mode-only" alt="Alex Colls' Language stats" />
+  <img height="200" src="./img/stats/stats-light.svg#gh-light-mode-only" alt="Alex Colls' GitHub stats" />
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats-pqad-fb8092256-alexcolls.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&card_width=450&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d#gh-dark-mode-only" alt="Alex Colls' Language stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats-pqad-fb8092256-alexcolls.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d#gh-dark-mode-only" alt="Alex Colls' GitHub stats" />
-  </a>
+  <img height="200" src="./img/stats/top-langs-dark.svg#gh-dark-mode-only" alt="Alex Colls' Language stats" />
+  <img height="200" src="./img/stats/stats-dark.svg#gh-dark-mode-only" alt="Alex Colls' GitHub stats" />
 </div>
 
 <br/>
