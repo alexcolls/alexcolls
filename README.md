@@ -145,7 +145,7 @@ Software engineer and systems architect with a decade in **quantitative finance*
 <!--  FEATURED PROJECTS                                            -->
 <!-- ============================================================= -->
 
-## 🚀 Featured Projects
+## 🚀 Open Source Projects
 
 | Project                                                             | Description                                                                      | Tech         |
 | :------------------------------------------------------------------ | :------------------------------------------------------------------------------- | :----------- |
@@ -163,33 +163,38 @@ Software engineer and systems architect with a decade in **quantitative finance*
 ## 📊 GitHub Stats
 
 <!--
-  NOTE: These cards are served from a SELF-HOSTED github-readme-stats instance
-  on Vercel (host: alexcolls-stats.vercel.app) to avoid the rate limits that
-  break the shared public instance. If your Vercel domain differs, find &
-  replace `alexcolls-stats.vercel.app` below. One-time setup:
-    1. Fork github.com/anuraghazra/github-readme-stats
-    2. Import the fork into vercel.com as a new project
-    3. Add env var  PAT_1 = <GitHub PAT with `repo` + `read:user` scopes>
-    4. Deploy; set the project domain to alexcolls-stats.vercel.app
+  Cards are served from a SELF-HOSTED github-readme-stats instance on Vercel
+  (project: github-readme-stats-pqad) to dodge the rate limits that break the
+  shared public instance.
+
+  The host below is the project's STABLE production domain — NOT a per-deploy
+  URL like `github-readme-stats-pqad-fb8092256-alexcolls.vercel.app`, whose
+  hash changes on every redeploy and would break the cards.
+
+  REQUIRED so GitHub's image proxy can load these:
+    - Vercel → Project → Settings → Deployment Protection →
+      set "Vercel Authentication" to Disabled (else requests 302 to an SSO
+      login and the card renders blank).
+    - Env var on the project:  PAT_1 = <GitHub PAT, scopes: repo + read:user>
 -->
 
 <!-- Light Mode -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://alexcolls-stats.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default&title_color=00ff00&text_color=24292f&icon_color=0366d6&bg_color=ffffff#gh-light-mode-only" alt="Alex Colls' Language stats" />
+    <img height="200" src="https://github-readme-stats-pqad-alexcolls.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default&title_color=00ff00&text_color=24292f&icon_color=0366d6&bg_color=ffffff#gh-light-mode-only" alt="Alex Colls' Language stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="200" src="https://alexcolls-stats.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&title_color=00ff00&text_color=24292f&icon_color=79c0ff&bg_color=ffffff#gh-light-mode-only" alt="Alex Colls' GitHub stats" />
+    <img height="200" src="https://github-readme-stats-pqad-alexcolls.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&title_color=00ff00&text_color=24292f&icon_color=79c0ff&bg_color=ffffff#gh-light-mode-only" alt="Alex Colls' GitHub stats" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://alexcolls-stats.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&card_width=450&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d#gh-dark-mode-only" alt="Alex Colls' Language stats" />
+    <img height="200" src="https://github-readme-stats-pqad-alexcolls.vercel.app/api/top-langs/?username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&card_width=450&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d#gh-dark-mode-only" alt="Alex Colls' Language stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="200" src="https://alexcolls-stats.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d#gh-dark-mode-only" alt="Alex Colls' GitHub stats" />
+    <img height="200" src="https://github-readme-stats-pqad-alexcolls.vercel.app/api?username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d#gh-dark-mode-only" alt="Alex Colls' GitHub stats" />
   </a>
 </div>
 
