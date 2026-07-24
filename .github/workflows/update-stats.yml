@@ -1,0 +1,62 @@
+name: Update GitHub stats cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily 06:00 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate top langs (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: img/stats/top-langs-light.svg
+          token: ${{ secrets.STATS_PAT || github.token }}
+          options: >-
+            username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default&title_color=00ff00&text_color=24292f&icon_color=0366d6&bg_color=ffffff
+
+      - name: Generate stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: img/stats/stats-light.svg
+          token: ${{ secrets.STATS_PAT || github.token }}
+          options: >-
+            username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&title_color=00ff00&text_color=24292f&icon_color=79c0ff&bg_color=ffffff
+
+      - name: Generate top langs (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: img/stats/top-langs-dark.svg
+          token: ${{ secrets.STATS_PAT || github.token }}
+          options: >-
+            username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&card_width=450&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d
+
+      - name: Generate stats (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: img/stats/stats-dark.svg
+          token: ${{ secrets.STATS_PAT || github.token }}
+          options: >-
+            username=alexcolls&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/stats/*.svg
+          git diff --staged --quiet || git commit -m "chore(stats): refresh GitHub stats cards"
+          git push
