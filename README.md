@@ -173,14 +173,10 @@ Software engineer, systems architect, and **CTO**. After a decade in **quantitat
 
 <!--
   Cards are static SVGs under img/stats/, refreshed daily by
-  .github/workflows/update-stats.yml (stats-organization/github-readme-stats-action).
+  .github/workflows/update-stats.yml (curl from a public stats host).
 
-  This avoids the broken Vercel-hosted cards: Deployment Protection / SSO on the
-  self-hosted instance 302s GitHub's image proxy, so remote cards rendered blank.
-
-  Do not set count_private=true unless a STATS_PAT secret (scopes: repo +
-  read:user) is configured — GITHUB_TOKEN alone returns
-  "Resource not accessible by integration" and blanks the stats card.
+  Do not use github-readme-stats-action with GITHUB_TOKEN for the stats card:
+  it fails with "Resource not accessible by integration" and commits an error SVG.
 -->
 
 <!-- Light Mode -->

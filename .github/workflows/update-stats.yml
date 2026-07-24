@@ -11,47 +11,53 @@ on:
 permissions:
   contents: write
 
+# Fetch from a public github-readme-stats host. The official Action + GITHUB_TOKEN
+# fails on the stats card with "Resource not accessible by integration" (GitHub
+# App tokens cannot run the queries used for include_all_commits / full stats).
+
+env:
+  STATS_HOST: https://github-readme-stats.shion.dev
+  HIDE_LANGS: >-
+    procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate top langs (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          path: img/stats/top-langs-light.svg
-          token: ${{ secrets.STATS_PAT || github.token }}
-          options: >-
-            username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=owner,collaborator&theme=default&title_color=00ff00&text_color=24292f&icon_color=0366d6&bg_color=ffffff
+      - name: Download stats cards
+        run: |
+          set -euo pipefail
+          mkdir -p img/stats
 
-      - name: Generate stats (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          path: img/stats/stats-light.svg
-          token: ${{ secrets.STATS_PAT || github.token }}
-          options: >-
-            username=alexcolls&show_icons=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&title_color=00ff00&text_color=24292f&icon_color=79c0ff&bg_color=ffffff
+          curl -fsSL -o img/stats/top-langs-light.svg \
+            "${STATS_HOST}/api/top-langs/?username=alexcolls&layout=compact&hide=${HIDE_LANGS}&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&card_width=450&role=OWNER,COLLABORATOR&theme=default&title_color=00ff00&text_color=24292f&icon_color=0366d6&bg_color=ffffff"
 
-      - name: Generate top langs (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          path: img/stats/top-langs-dark.svg
-          token: ${{ secrets.STATS_PAT || github.token }}
-          options: >-
-            username=alexcolls&layout=compact&hide=procfile,c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile,hack,roff,DIGITAL%20Command%20Language,Dockerfile&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&role=owner,collaborator&card_width=450&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d
+          curl -fsSL -o img/stats/stats-light.svg \
+            "${STATS_HOST}/api?username=alexcolls&show_icons=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=default&title_color=00ff00&text_color=24292f&icon_color=79c0ff&bg_color=ffffff"
 
-      - name: Generate stats (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          path: img/stats/stats-dark.svg
-          token: ${{ secrets.STATS_PAT || github.token }}
-          options: >-
-            username=alexcolls&show_icons=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d
+          curl -fsSL -o img/stats/top-langs-dark.svg \
+            "${STATS_HOST}/api/top-langs/?username=alexcolls&layout=compact&hide=${HIDE_LANGS}&langs_count=10&size_weight=0.3&count_weight=0.7&hide_border=true&role=OWNER,COLLABORATOR&card_width=450&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+
+          curl -fsSL -o img/stats/stats-dark.svg \
+            "${STATS_HOST}/api?username=alexcolls&show_icons=true&line_height=28&hide_border=true&card_width=300&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d"
+
+      - name: Validate cards
+        run: |
+          set -euo pipefail
+          for f in img/stats/*.svg; do
+            if grep -q "Something went wrong" "$f"; then
+              echo "::error::Broken card written to $f"
+              cat "$f"
+              exit 1
+            fi
+            if ! grep -q "<svg" "$f"; then
+              echo "::error::Not an SVG: $f"
+              exit 1
+            fi
+          done
+          echo "All cards look valid."
 
       - name: Commit updated cards
         run: |
