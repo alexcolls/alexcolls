@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00CC00&center=true&vCenter=true&width=760&height=45&lines=Software+Engineer+%26+Systems+Architect;Quantitative+Trader+%26+Hedge+Fund+Manager;AI+%2F+ML+%26+Data+Science+Engineer;Web3+Developer+%E2%80%94+Solana+%26+Bitcoin;Security+Researcher+%26+Pentester" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00CC00&center=true&vCenter=true&width=760&height=45&lines=Software+Engineer+%26+Systems+Architect;Quantitative+Trader+%26+Hedge+Fund+Manager;AI+%2F+ML+%26+Data+Science+Engineer;Web3+Developer+%E2%80%94+Solana%2C+Ethereum+%26+Bitcoin;Security+Researcher+%26+Pentester" alt="What I do" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@ Software engineer and systems architect with a decade in **quantitative finance*
 - **Quantitative Trading** — 10+ years in electronic markets: HFT, market making, and automated options & equities strategies.
 - **AI & Data Science** — embeddings, vector search, semantic retrieval, and real-time streaming pipelines.
 - **Cloud & DevOps** — Kubernetes, GPU optimization, and scalable audio/video processing.
-- **Web3** — building exclusively on **Solana** and **Bitcoin**.
+- **Web3** — building on **Solana**, **Ethereum**, and **Bitcoin**.
 - **Security** — pentesting and secure-by-design engineering.
 
 <!-- ============================================================= -->
@@ -62,7 +62,7 @@ Software engineer and systems architect with a decade in **quantitative finance*
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **AI & Data**
 
@@ -73,13 +73,24 @@ Software engineer and systems architect with a decade in **quantitative finance*
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Backend & Data**
+**Backend & Runtimes**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244B5A?style=for-the-badge&logoColor=white)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=actix&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-172B4D?style=for-the-badge&logo=tokio&logoColor=white)
+![Rocket](https://img.shields.io/badge/Rocket-D33847?style=for-the-badge&logo=rocket&logoColor=white)
+
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -93,6 +104,7 @@ Software engineer and systems architect with a decade in **quantitative finance*
 **Web3**
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <!-- ============================================================= -->
