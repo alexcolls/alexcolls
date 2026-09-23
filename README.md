@@ -166,6 +166,23 @@ Software engineer, systems architect, and **CTO**. After a decade in **quantitat
 | [**linkedin-spider**](https://github.com/alexcolls/linkedin-spider) | Large-scale LinkedIn profile collection via Google Search                        | `Python`     |
 
 <!-- ============================================================= -->
+<!--  RECENT APPS                                                  -->
+<!-- ============================================================= -->
+
+## 🌐 Recent Apps
+
+| App                                                          | Description                                                                              |
+| :----------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
+| [**aurea.gg**](https://aurea.gg)                             | Strava for gamers — unified identity, match tracking, and a social feed across platforms |
+| [**nexow.ai**](https://nexow.ai)                             | Describe an idea and get a working widget on a canvas you edit by conversation           |
+| [**kwami.io**](https://kwami.io)                             | 3D AI companions with voice, memory, and customizable avatars                            |
+| [**oriane.xyz**](https://oriane.xyz)                         | AI video intelligence — search TikTok, Instagram, and YouTube at the frame level         |
+| [**gfal.com**](https://gfal.com)                             | Games for a Living — Web3 gaming platform, identity, wallet, and marketplace             |
+| [**beenzer.app**](https://beenzer.app)                       | Location-based social app on Solana where every post is an NFT you own                   |
+| [**defuzefamily.io**](https://defuzefamily.io)               | AI-guided co-parenting: shared calendars, expenses, and moderated communication          |
+| [**theloopway.com**](https://theloopway.com)                 | Peptide and longevity platform — library, research, stacks, and supplements              |
+
+<!-- ============================================================= -->
 <!--  GITHUB STATS                                                 -->
 <!-- ============================================================= -->
 
